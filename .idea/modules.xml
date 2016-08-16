@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GAforVRP.iml" filepath="$PROJECT_DIR$/.idea/modules/GAforVRP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GAforVRP_main.iml" filepath="$PROJECT_DIR$/.idea/modules/GAforVRP_main.iml" group="GAforVRP" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GAforVRP_test.iml" filepath="$PROJECT_DIR$/.idea/modules/GAforVRP_test.iml" group="GAforVRP" />
+    </modules>
+  </component>
+</project>

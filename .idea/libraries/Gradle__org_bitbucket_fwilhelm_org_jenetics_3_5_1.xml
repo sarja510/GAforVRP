@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.bitbucket.fwilhelm:org.jenetics:3.5.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bitbucket.fwilhelm/org.jenetics/3.5.1/bd3f89fb433018298ee4eba502fdb368615328b5/org.jenetics-3.5.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bitbucket.fwilhelm/org.jenetics/3.5.1/7d8b8c0b40872098ac58333531def5917d28532f/org.jenetics-3.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
